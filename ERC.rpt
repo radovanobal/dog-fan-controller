@@ -1,0 +1,20 @@
+ERC report (2026-08-10T22:54:19, Encoding UTF8)
+Report includes: Errors
+
+***** Sheet /
+[duplicate_pins]: Pin  on symbol 'U2' is connected to different nets: GND and unconnected-(U2-8-Pad)
+    ; error
+    @(6450 mils, 1350 mils): Symbol U2 Pin  [7, Power output, Line]
+    @(6450 mils, 1450 mils): Symbol U2 Pin  [8, Power output, Line]
+[duplicate_pins]: Pin  on symbol 'U1' is connected to different nets: /+5V_SYS and GND
+    ; error
+    @(9650 mils, 4050 mils): Symbol U1 Pin  [5V, Power input, Line]
+    @(9650 mils, 4150 mils): Symbol U1 Pin  [GND, Power input, Line]
+
+ ** ERC messages: 2  Errors 2  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
