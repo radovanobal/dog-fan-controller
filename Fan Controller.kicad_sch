@@ -901,7 +901,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "AP63201QWU-7"
+			(property "Value" "AP63201QWU7"
 				(at -10.16 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -912,7 +912,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "AP63205QWU7:SOT95P280X100-6N"
+			(property "Footprint" "AP63201QWU7:SOT95P280X100-6N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1078,6 +1078,24 @@
 						)
 					)
 				)
+				(pin input line
+					(at -15.24 5.08 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
 				(pin power_in line
 					(at 15.24 -5.08 180)
 					(length 5.08)
@@ -1096,27 +1114,7 @@
 						)
 					)
 				)
-			)
-			(symbol "AP63201QWU7_1_0"
-				(pin power_in line
-					(at -15.24 5.08 0)
-					(length 5.08)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_out line
+				(pin output line
 					(at 15.24 5.08 180)
 					(length 5.08)
 					(name "SW"
@@ -1134,7 +1132,7 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin input line
 					(at 15.24 0 180)
 					(length 5.08)
 					(name "BST"
@@ -4586,7 +4584,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 251.46) (xy 210.82 251.46)
+			(xy 137.16 251.46) (xy 210.82 251.46)
 		)
 		(stroke
 			(width 0)
@@ -5436,16 +5434,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 231.14) (xy 139.7 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ad1780a-78f2-4b16-b147-3650dd2c56ff")
-	)
-	(wire
-		(pts
 			(xy 198.12 30.48) (xy 209.55 30.48)
 		)
 		(stroke
@@ -5686,7 +5674,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 231.14) (xy 139.7 251.46)
+			(xy 137.16 231.14) (xy 137.16 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6575,7 +6563,7 @@
 		(uuid "4c2ffa49-77a3-449a-9ac7-94fc5c2a5d7e")
 	)
 	(label "+12V_FAN"
-		(at 279.4 223.52 0)
+		(at 289.56 223.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
