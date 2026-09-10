@@ -8655,7 +8655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22µF"
+		(property "Value" "47µF"
 			(at 148.59 39.3762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8666,7 +8666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 146.05 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8677,7 +8677,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-eu/products/productdetail?partno=GRM32ER71A476KE15L"
 			(at 146.05 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8699,7 +8699,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCM31CR71A226ME02L"
+		(property "MPN" "GRM32ER71A476KE15L"
 			(at 146.05 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8721,7 +8721,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C710711"
+		(property "LCSC" "C84494"
 			(at 146.05 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9000,7 +9000,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "47R"
 			(at 149.86 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9044,7 +9044,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-07100RL"
+		(property "MPN" "RC0805FR-0747KL"
 			(at 147.32 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9066,7 +9066,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C105577"
+		(property "LCSC" "C126351"
 			(at 147.32 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -11687,7 +11687,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "47R"
 			(at 149.86 166.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11731,7 +11731,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0805FR-07100RL"
+		(property "MPN" "RC0805FR-0747KL"
 			(at 147.32 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11753,7 +11753,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C105577"
+		(property "LCSC" "C126351"
 			(at 147.32 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13156,7 +13156,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22µF"
+		(property "Value" "47µF"
 			(at 161.29 39.3762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13167,7 +13167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 158.75 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13178,7 +13178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-eu/products/productdetail?partno=GRM32ER71A476KE15L"
 			(at 158.75 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13200,7 +13200,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCM31CR71A226ME02L"
+		(property "MPN" "GRM32ER71A476KE15L"
 			(at 158.75 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13222,7 +13222,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C710711"
+		(property "LCSC" "C84494"
 			(at 158.75 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13700,7 +13700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µF"
+		(property "Value" "47µF"
 			(at 267.97 31.7562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13711,7 +13711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 265.43 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13722,7 +13722,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-eu/products/productdetail?partno=GRM32ER71A476KE15L"
 			(at 265.43 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13744,7 +13744,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL31B106KBHNNNE"
+		(property "MPN" "GRM32ER71A476KE15L"
 			(at 265.43 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13755,7 +13755,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+		(property "MANUFACTURER" "Murata"
 			(at 265.43 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13766,7 +13766,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C89632"
+		(property "LCSC" "C84494"
 			(at 265.43 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -14106,4 +14106,125 @@
 		)
 	)
 	(embedded_fonts no)
+
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 294.64 236.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39ba723b-709f-4438-8d52-7de90e4bbfd5")
+		(property "Reference" "C19"
+			(at 297.18 234.4038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47µF / 25V Hybrid"
+			(at 297.18 236.9438 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/hybrid-aluminum/models/EEHZC1E470P"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "47uF 25V polymer hybrid aluminum electrolytic, 125C, polarized"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "EEHZC1E470P"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C542308"
+			(at 294.64 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0c9d4e7e-de0b-49e9-ac9c-59e701a8db22")
+		)
+		(pin "1"
+			(uuid "0f9fb8d8-f3bf-47bb-a7fb-bf457d03d58c")
+		)
+		(instances
+			(project "Fan Controller"
+				(path "/94c56d96-6d29-437f-bc46-cb7c0eff180b"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire (pts (xy 289.56 223.52) (xy 294.64 223.52)) (stroke (width 0) (type default)) (uuid "9d01b74a-43e7-4aa7-94ef-907adf69fc9a"))
+	(wire (pts (xy 294.64 223.52) (xy 294.64 233.68)) (stroke (width 0) (type default)) (uuid "83a7f4b2-d259-4ab3-a297-ea6072d5e7e9"))
+	(wire (pts (xy 294.64 238.76) (xy 294.64 264.16)) (stroke (width 0) (type default)) (uuid "e41617ac-81c6-436f-826c-0a0256ecb8f8"))
+	(wire (pts (xy 271.78 264.16) (xy 294.64 264.16)) (stroke (width 0) (type default)) (uuid "e34825f7-0975-4dbe-87c9-dbff6bac7277"))
+	(junction (at 271.78 264.16) (diameter 0) (color 0 0 0 0) (uuid "1cb6a65b-387e-4cbd-bb17-3c23066ad728"))
 )
