@@ -6589,6 +6589,16 @@
 		(uuid "3503dad3-1031-44ed-95c8-2ef6cef4f800")
 	)
 	(label "FAN1_PWM_GPIO"
+		(at 250.19 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40dbf2c0-24f8-4f74-a5e5-3528573d65c3")
+	)
+	(label "FAN1_PWM_GPIO"
 		(at 52.07 152.4 0)
 		(effects
 			(font
@@ -6647,16 +6657,6 @@
 			(justify left bottom)
 		)
 		(uuid "663aed26-a854-4b07-bf83-f62d8ae94a81")
-	)
-	(label "FAN1_PWM_GPIO"
-		(at 250.19 157.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66ff47cc-2fa8-4bf0-99a4-2ba8c5e32d55")
 	)
 	(label "+3V3"
 		(at 154.94 64.77 0)
@@ -6729,14 +6729,14 @@
 		(uuid "7e27d1f2-c115-4b84-b0c5-63301a731283")
 	)
 	(label "FAN2_PWM_GPIO"
-		(at 250.19 154.94 0)
+		(at 250.19 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "895f646a-4cb5-4905-9f7c-2cde92081e70")
+		(uuid "866c6e97-1971-4c15-baa9-c13e3eb42472")
 	)
 	(label "GPIO20"
 		(at 218.44 154.94 0)
