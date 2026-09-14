@@ -1,0 +1,22 @@
+Dog Fan Controller
+Copyright (c) 2026 Appicanis, Radovan Obal s.p.
+Original design by Appicanis, Radovan Obal s.p.
+
+Source location: https://github.com/radovanobal/dog-fan-controller
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+The original hardware design materials and accompanying design documentation
+in this repository are licensed under the CERN Open Hardware Licence
+Version 2 - Permissive (CERN-OHL-P-2.0). These materials include the original
+schematic and PCB design, original symbols and footprints, and manufacturing
+data derived from that design, to the extent owned by the copyright holder.
+See LICENSE for the full terms.
+
+Third-party symbols, footprints, models, datasheets and other third-party
+materials retain their own licences and notices. This notice does not
+relicense those materials. Firmware and standalone software are outside the
+scope of this hardware licence grant unless explicitly marked otherwise.
+
+The Covered Source and any Products are provided "as is", without warranty,
+to the extent permitted by law. See section 5 of LICENSE for the full
+disclaimer and limitation of liability.
