@@ -36,7 +36,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "178.6764.0001:LITTLEFUSE_178.6764.0001"
+			(property "Footprint" "custom_footprints:LITTLEFUSE_178.6764.0001"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -260,7 +260,7 @@
 					)
 				)
 			)
-			(property "Footprint" "DBV6"
+			(property "Footprint" "custom_footprints:DBV6"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -518,7 +518,7 @@
 					)
 				)
 			)
-			(property "Footprint" "TO252AA_SQD19_VIS"
+			(property "Footprint" "custom_footprints:TO252AA_SQD19_VIS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -912,7 +912,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "AP63201QWU7:SOT95P280X100-6N"
+			(property "Footprint" "custom_footprints:SOT95P280X100-6N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1184,7 +1184,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "AP63205QWU7:SOT95P280X100-6N"
+			(property "Footprint" "custom_footprints:SOT95P280X100-6N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3334,7 +3334,7 @@
 					)
 				)
 			)
-			(property "Footprint" "ESP32C3-SuperMini:ESP32-C3-SuperMini"
+			(property "Footprint" "custom_footprints:ESP32-C3-SuperMini"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3712,7 +3712,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SMCJ18A:DIOM7959X262N"
+			(property "Footprint" "custom_footprints:DIOM7959X262N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)

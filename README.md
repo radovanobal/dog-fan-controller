@@ -25,3 +25,20 @@ Source: <https://github.com/radovanobal/dog-fan-controller>
 Third-party materials retain their own licences. Firmware and standalone
 software require their own explicit licence; the hardware licence above
 does not automatically apply to them.
+
+## Open on another machine
+
+Install **KiCad 10** with its standard symbol, footprint and 3D model libraries,
+clone this repository, then open `Fan Controller.kicad_pro` in KiCad.
+No personal library configuration or custom path variables are required.
+
+The project library tables explicitly reference KiCad's standard libraries using
+`KICAD10_SYMBOL_DIR` and `KICAD10_FOOTPRINT_DIR`. Custom dependencies are included
+in `custom_footprints.pretty/`, `Fan_Controller.pretty/`, `symbols/` and
+`3dmodels/`, and use `${KIPRJMOD}` paths relative to the checkout. The two
+root-level symbol libraries are also registered in the project table. Standard
+3D models use KiCad's `KICAD10_3DMODEL_DIR` setting.
+
+When adding a custom part, include its symbol, footprint and any 3D model in the
+repository and update the project library tables. Avoid absolute paths or
+libraries registered only in your personal KiCad settings.

@@ -1,0 +1,146 @@
+(footprint "L_TDK_SPM6530"
+	(version 20241229)
+	(generator "pcbnew")
+	(layer "F.Cu")
+	(property "Reference" "L2"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "9c8ae196-4354-44f9-9f74-17c41d04e98e")
+		(effects
+			(font
+				(size .8 .8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "15µH"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "2444d601-c5b0-4699-b32f-93a7428c92f9")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_TDK-SPM6530T-150M-HZ_C307809.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0552960c-a523-4d3d-8e69-49aeba0715fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Inductor, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da788718-ab08-4d71-98c9-cdc7df9ea5fe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MPN" "SPM6530T-150M-HZ"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e7df1e5-b150-4190-8be4-0bfca53ac2cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "296b5a93-13ed-4158-a752-f2cae927e343")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C307809"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef04987b-4c01-4e59-88eb-35091f8717e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" smd rect
+		(at -2.775 0 0)
+		(size 1.85 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c38722ad-7508-4d2a-a74c-b19d5919cba4")
+	)
+	(pad "2" smd rect
+		(at 2.775 0 0)
+		(size 1.85 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f223f2d8-d85a-4077-9c52-91fb4801ce0a")
+	)
+	(embedded_fonts no)
+	(fp_rect
+		(start -3.55 -3.25)
+		(end 3.55 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "04256cf7-acaa-44f6-8c06-f451f50edcd6")
+	)
+	(fp_rect
+		(start -3.95 -3.65)
+		(end 3.95 3.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "808c8120-80bd-4a45-bd11-31f1b98a66c5")
+	)
+	(fp_line
+		(start -3.2 -3.52)
+		(end 3.2 -3.52)
+		(stroke
+			(width .12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "602151c0-6265-4f1d-870d-0b7fb6434e69")
+	)
+	(fp_line
+		(start -3.2 3.52)
+		(end 3.2 3.52)
+		(stroke
+			(width .12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d92c8610-7aa4-48ae-9051-69f7c31589b6")
+	)
+)
