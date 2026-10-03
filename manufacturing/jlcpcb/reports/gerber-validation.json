@@ -1,0 +1,29 @@
+{
+  "parser": "gerbonara 1.6.3",
+  "layers": [
+    "top copper",
+    "top mask",
+    "top silk",
+    "top paste",
+    "bottom copper",
+    "bottom mask",
+    "bottom silk",
+    "bottom paste",
+    "inner_2 copper",
+    "inner_1 copper",
+    "mechanical outline"
+  ],
+  "outline_bounds_mm": [
+    [
+      151.475,
+      -133.525
+    ],
+    [
+      184.525,
+      -37.475
+    ]
+  ],
+  "plated_holes": 85,
+  "nonplated_holes": 7,
+  "archive_sha256": "eb73da5785fef90dcce6e92cc7422b7d11587d0fa567f314227058150d2ff0fb"
+}

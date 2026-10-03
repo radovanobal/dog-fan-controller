@@ -42,3 +42,9 @@ root-level symbol libraries are also registered in the project table. Standard
 When adding a custom part, include its symbol, footprint and any 3D model in the
 repository and update the project library tables. Avoid absolute paths or
 libraries registered only in your personal KiCad settings.
+
+## Manufacturing preparation
+
+JLCPCB fabrication and draft assembly outputs, order settings and review status
+are in [manufacturing/jlcpcb](manufacturing/jlcpcb/README.md). Regenerate exports
+with `python3 tools/prepare_jlcpcb.py` using KiCad 10.

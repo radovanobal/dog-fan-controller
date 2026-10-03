@@ -1,0 +1,16 @@
+{
+  "assumed_inner_copper_um": 15.2,
+  "outer_copper_um": 35,
+  "representative_strip": {
+    "length_mm": 100,
+    "width_mm": 5,
+    "resistance_ohm_at_20C": 0.022684210526315793,
+    "drop_at_2A_V": 0.045368421052631586,
+    "loss_at_2A_W": 0.09073684210526317,
+    "resistance_ohm_at_60C": 0.026250168421052635
+  },
+  "scope": "DC plane-resistance estimate; not a thermal simulation, full-load regulator qualification or transient/fuse assessment",
+  "assumed_fans": "Two standard 12V NF-A14 PWM, 0.13 A maximum each per Noctua; no extra expansion loads",
+  "observation": "Ground and protected-12V fills are broad continuous islands; fan and 5V output distribution remains on 1 oz outer copper.",
+  "stackup_source": "https://jlcpcb.com/impedance"
+}

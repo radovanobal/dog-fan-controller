@@ -1,0 +1,14 @@
+﻿Designator,Comment,Manufacturer Part Number,LCSC Part #,Reason
+F1,Fuse Holder,178.6764.0001,,DNP in board: excluded from JLCPCB assembly
+H1,MountingHole_2.2mm_M2,,,Mechanical mounting hole
+H2,MountingHole_2.2mm_M2,,,Mechanical mounting hole
+H3,MountingHole_2.2mm_M2,,,Mechanical mounting hole
+H4,MountingHole_2.2mm_M2,,,Mechanical mounting hole
+J1,Power Input,B2B-XH-A (LF) (SN),C158012,DNP in board: excluded from JLCPCB assembly
+J2,4-Pin Fan Header,470531000,C240840,DNP in board: excluded from JLCPCB assembly
+J3,4-Pin Fan Header,470531000,C240840,DNP in board: excluded from JLCPCB assembly
+J4,I2C,B4B-PH-K-S (LF) (SN),C131334,DNP in board: excluded from JLCPCB assembly
+J5,I2C,B4B-PH-K-S (LF) (SN),C131334,DNP in board: excluded from JLCPCB assembly
+J6,Expansion 1,B6B-PH-K-S (LF) (SN),C131342,DNP in board: excluded from JLCPCB assembly
+J7,Expansion 2,B5B-PH-K-S (LF) (SN),C157993,DNP in board: excluded from JLCPCB assembly
+U1,ESP32-C3-SuperMini,ESP32-C3-SuperMini,,DNP in board: excluded from JLCPCB assembly

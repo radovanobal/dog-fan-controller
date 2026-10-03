@@ -1,0 +1,29 @@
+{
+  "kicad_version": "10.0.5",
+  "assembly_components": 40,
+  "unique_assembly_parts": 26,
+  "excluded_items": 13,
+  "assembly_status": "Draft: vendor part matching, stock and rotation review pending",
+  "sha256": {
+    "Fan Controller.kicad_pcb": "cbecc9963ebf38d93bb6283203c3ec49b5adc7824a06cbea60db7743e6a712b0",
+    "Fan Controller.kicad_sch": "3dc93c8767a569bdbf3ddcdfeec6555d36aa9cb3060f42871937dbf2dd0dba63",
+    "Fan Controller.kicad_pro": "f1f3e4f0cff47b6593cf5d6c3f256f75e8474d145aeb507ff4971811a64cf288",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-F_Cu.gtl": "50f5a7061899f7b4fb651ed484a164bea9ef0dad999032fabea2716a1269fdb7",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-In1_Cu.g1": "be75fc0765d90694c91fe5ab131fb11ea917ae52ccf5fc9244a1f54168701be7",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-In2_Cu.g2": "c99377e2611a4ac539fd7c6790398b2833070698ec06de53ff0898057ab2a436",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-B_Cu.gbl": "8dde636e663a4f3967621bac2397bccc522d4a8a53ef7528f02b9b8de6030849",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-F_Paste.gtp": "851f828094ba4dfc96389e6bf34b3a47096af6da545c92011f692028087b3aab",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-B_Paste.gbp": "c8744ecf390d674eadc065e4faea4e16fa3b752f1d538c0483ae9c49282ca760",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-F_Silkscreen.gto": "ac6da20d7c9e91277690a9529ef709cd6fe54079afc230c6bb85da8c634bd9cf",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-B_Silkscreen.gbo": "d8521f8f4890f847ad793d0a18d88f1fb3c07c2718809e7cd916ef72c80468ad",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-F_Mask.gts": "0fa27fde44997e5c35d1c98ecca2ecb70bf9f4a6637f2476e325500db4ed973b",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-B_Mask.gbs": "62285c610c5cdf87ba96dae1f9b2c30a5769b83f080187e0800db5f70de8b044",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-Edge_Cuts.gm1": "4ac20b7d95b49da7ec7ee541293f3b39fb965de147e352f0c57f51e49e7df936",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-PTH.drl": "5acbfae511d321700fc0dbf9d412335071fcf22bd448216e7f1f81e8b3dbff13",
+    "manufacturing/jlcpcb/gerbers/Fan Controller-NPTH.drl": "3f4efd2625ee6c11f343994b722e733b048e8241e6978ee3dce7258c56c1e9b0",
+    "manufacturing/jlcpcb/Dog-Fan-Controller-Gerbers.zip": "eb73da5785fef90dcce6e92cc7422b7d11587d0fa567f314227058150d2ff0fb",
+    "manufacturing/jlcpcb/assembly/BOM.csv": "374271f04b99360f021ce7c08f95e053e10c1553ca6938a84fdb0cbfed73d522",
+    "manufacturing/jlcpcb/assembly/CPL.csv": "632b83701a6239b30b006affb90b291283d54e1b08d7f5e8d496348c2a079a55",
+    "manufacturing/jlcpcb/assembly/excluded-parts.csv": "d9804579ba25882ced811738312a387a08690020b87f25bf746e40212e9a2b20"
+  }
+}
